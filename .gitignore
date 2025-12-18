@@ -1,0 +1,32 @@
+# Build artifacts
+/build/
+/bin/
+*.o
+*.obj
+*.exe
+*.out
+*.class
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Compiled binary
+hotel
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# macOS
+Thumbs.db
